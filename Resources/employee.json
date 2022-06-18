@@ -1,0 +1,5 @@
+{"id":"1201","empname":"satish","age":"25","salary":5000,"address":[{"city":"Pune","state":"Maharashtra"}],"deptid":11}
+{"id" : "1202", "empname": "krishna", "age":"28", "salary":6000,"address":[{"city":"Pune","state":"Maharashtra"}],"deptid":21}
+{"id" : "1203", "empname": "amith", "age":"39", "salary":7000,"address":[{"city":"Pune","state":"Maharashtra"}],"deptid":31}
+{"id" : "1204", "empname": "javed", "age":"23", "salary":8000,"address":[{"city":"Pune","state":"Maharashtra"}],"deptid":41}
+{"id" : "1205", "empname": "prudvi", "age":"23", "salary":9000,"address":[{"city":"Pune","state":"Maharashtra"}],"deptid":41}

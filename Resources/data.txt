@@ -1,0 +1,6 @@
+sumit,30,bangalore
+kapil,32,hyderabad
+sathish,16,chennai
+ravi,39,bangalore
+kavita,12,hyderabad
+kavya,19,mysore
